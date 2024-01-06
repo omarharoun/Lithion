@@ -241,7 +241,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/background.jpg") top center;
+  background: url("omarharoun/omarharoun.github.io/assets/img/Background.jpg") top center;
   background-size: cover;
 }
 
@@ -312,7 +312,7 @@ section {
 }
 
 .section-bg {
-  background: #f5f8fd;
+  background: #335ea9;
 }
 
 .section-title {
